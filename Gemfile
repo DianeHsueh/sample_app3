@@ -19,7 +19,7 @@ gem 'jbuilder',       '2.2.6'
 gem 'sdoc',           '0.4.1', group: :doc
 
 group :development, :test do
-  gem 'sqlite3',     '1.3.10'https://www.airbnb.com.tw/z/q/77438660
+  gem 'sqlite3',     '1.3.10'
   gem 'byebug',      '3.5.1'
   gem 'web-console', '2.0.0'
   gem 'spring',      '1.2.0'
